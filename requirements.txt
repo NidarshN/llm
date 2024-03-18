@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+datasets
+soundfile
+librosa
+gradio
+typing_extensions
+timm
+inflect
+phonemizer
