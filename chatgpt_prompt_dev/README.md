@@ -1,3 +1,3 @@
-# Open Source Models with Hugging face
+# ChatGPT Prompt Engineering for Developers
 
 Author: Deeplearning.ai in colloboration with Hugging Face

@@ -10,3 +10,4 @@ typing_extensions
 timm
 inflect
 phonemizer
+openai
